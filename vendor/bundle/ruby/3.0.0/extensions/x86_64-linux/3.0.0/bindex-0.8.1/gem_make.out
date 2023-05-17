@@ -1,0 +1,18 @@
+current directory: /home/developer/RAILS/auctions/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/developer/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/developer/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/developer/RAILS/auctions/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-5472-41oj3s sitelibdir\=./.gem.20230201-5472-41oj3s clean
+
+current directory: /home/developer/RAILS/auctions/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-5472-41oj3s sitelibdir\=./.gem.20230201-5472-41oj3s
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/developer/RAILS/auctions/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-5472-41oj3s sitelibdir\=./.gem.20230201-5472-41oj3s install
+/usr/bin/install -m 0755 cruby.so ./.gem.20230201-5472-41oj3s/skiptrace/internal
+
+current directory: /home/developer/RAILS/auctions/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-5472-41oj3s sitelibdir\=./.gem.20230201-5472-41oj3s clean
